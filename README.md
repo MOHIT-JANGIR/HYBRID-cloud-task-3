@@ -270,7 +270,7 @@ terraform apply --auto-approve
 
 # Few Screenshots of the task are as follows-:
 
-![image](https://user-images.githubusercontent.com/61896468/91653573-b1270900-eabf-11ea-8cfe-66e41a59e26f.png)
+![image](https://user-images.githubusercontent.com/61896468/98758990-110e2a00-23f6-11eb-8d30-ef321cf0719d.png)
 ![image](https://user-images.githubusercontent.com/61896468/91653576-b97f4400-eabf-11ea-8a7e-9abf8d1109de.png)
 ![image](https://user-images.githubusercontent.com/61896468/91653578-c0a65200-eabf-11ea-9883-36b6747445f6.png)
 ![image](https://user-images.githubusercontent.com/61896468/91653582-c865f680-eabf-11ea-83d1-dc4f2d1e3684.png)
